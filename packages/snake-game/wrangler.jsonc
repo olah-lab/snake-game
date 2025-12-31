@@ -4,7 +4,6 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "bcf1d128-51d1-41ee-a474-e3490e10f60e",
 	"main": ".open-next/worker.js",
 	"compatibility_date": "2025-03-01",
 	"compatibility_flags": [
